@@ -1,0 +1,6 @@
+﻿GridOnContent:False
+StatusMouseLabel:True
+StatusObjectLabel:True
+StatusNameLabel:True
+StatusGridLabel:True
+StatusLevelLabel:True

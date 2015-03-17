@@ -1,0 +1,16 @@
+C:\Users\Kevin\Desktop\TERM3\comp3951-techpro\XNALevelEditor 1.0.0.0\XNALevelEditor\bin\Debug\XNALevelEditor.exe
+C:\Users\Kevin\Desktop\TERM3\comp3951-techpro\XNALevelEditor 1.0.0.0\XNALevelEditor\bin\Debug\XNALevelEditor.pdb
+C:\Users\Kevin\Desktop\TERM3\comp3951-techpro\XNALevelEditor 1.0.0.0\XNALevelEditor\obj\x86\Debug\XNALevelEditor.Forms.Add.frmeditobject.resources
+C:\Users\Kevin\Desktop\TERM3\comp3951-techpro\XNALevelEditor 1.0.0.0\XNALevelEditor\obj\x86\Debug\XNALevelEditor.MainForm.resources
+C:\Users\Kevin\Desktop\TERM3\comp3951-techpro\XNALevelEditor 1.0.0.0\XNALevelEditor\obj\x86\Debug\XNALevelEditor.Properties.Resources.resources
+C:\Users\Kevin\Desktop\TERM3\comp3951-techpro\XNALevelEditor 1.0.0.0\XNALevelEditor\obj\x86\Debug\TechProLevelEditor.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\TERM3\comp3951-techpro\XNALevelEditor 1.0.0.0\XNALevelEditor\obj\x86\Debug\XNALevelEditor.exe
+C:\Users\Kevin\Desktop\TERM3\comp3951-techpro\XNALevelEditor 1.0.0.0\XNALevelEditor\obj\x86\Debug\XNALevelEditor.pdb
+C:\Users\Kevin\Desktop\TERM3\comp3951-techpro\XNALevelEditor 1.0.0.0\TechProLevelEditor\bin\Debug\TechProLevelEditor.exe
+C:\Users\Kevin\Desktop\TERM3\comp3951-techpro\XNALevelEditor 1.0.0.0\TechProLevelEditor\bin\Debug\TechProLevelEditor.pdb
+C:\Users\Kevin\Desktop\TERM3\comp3951-techpro\XNALevelEditor 1.0.0.0\TechProLevelEditor\obj\x86\Debug\XNALevelEditor.Forms.Add.frmeditobject.resources
+C:\Users\Kevin\Desktop\TERM3\comp3951-techpro\XNALevelEditor 1.0.0.0\TechProLevelEditor\obj\x86\Debug\XNALevelEditor.MainForm.resources
+C:\Users\Kevin\Desktop\TERM3\comp3951-techpro\XNALevelEditor 1.0.0.0\TechProLevelEditor\obj\x86\Debug\XNALevelEditor.Properties.Resources.resources
+C:\Users\Kevin\Desktop\TERM3\comp3951-techpro\XNALevelEditor 1.0.0.0\TechProLevelEditor\obj\x86\Debug\TechProLevelEditor.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\TERM3\comp3951-techpro\XNALevelEditor 1.0.0.0\TechProLevelEditor\obj\x86\Debug\TechProLevelEditor.exe
+C:\Users\Kevin\Desktop\TERM3\comp3951-techpro\XNALevelEditor 1.0.0.0\TechProLevelEditor\obj\x86\Debug\TechProLevelEditor.pdb
